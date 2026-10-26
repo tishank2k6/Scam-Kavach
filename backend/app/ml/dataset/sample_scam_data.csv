@@ -1,0 +1,31 @@
+text,label,category
+"Congratulations! You have been selected for the Google Summer Internship. Please submit $150 refundable registration fee to confirm your slot.",1,ADVANCE_FEE
+"Dear Candidate, Amazon HR here. Earn $300 to $800 daily just by liking YouTube videos and rating hotels on Google Maps. Contact us on Telegram @amazon_task_hr",1,TASK_SCAM
+"We reviewed your resume on LinkedIn and are pleased to offer you Data Analyst role at Microsoft. We will mail you a check of $3,500 to buy office laptop and desk equipment from our approved vendor.",1,CHECK_SCAM
+"Urgent hiring for Apple Remote Support! No interview needed. Work 2 hours daily from phone and earn $5,000 monthly. Reply within 2 hours or your slot will be given to another applicant.",1,URGENCY
+"Hi, I am Sarah from Deloitte Talent Acquisition. Send your resume and contact me on WhatsApp +1928392819 to schedule the onboarding. We need your SSN and bank details for initial verification.",1,SENSITIVE_DATA
+"100% Guaranteed MNC Placement Program! Pay nominal registration charge of Rs 5,000 now and get direct joining letter in Infosys or TCS without technical round.",1,ADVANCE_FEE
+"Hello, your profile was shortlisted for Part-Time Assistant. Daily pay $250. To receive your assignment, deposit $50 security deposit on CashApp to activate employee portal.",1,ADVANCE_FEE
+"Earn passive income from home! Complete simple online survey tasks and get paid via Bitcoin or USDT. Minimum investment of $100 required to unlock VIP tier tasks.",1,TASK_SCAM
+"Offer Letter: You are hired as Junior Web Developer. Please wire $75 to our courier logistics partner to dispatch your MacBook Pro and welcome kit.",1,ADVANCE_FEE
+"Urgent: Infosys campus drive selection confirmed. Transfer Rs 2,500 for training module certification fee before midnight to reserve your employee ID.",1,ADVANCE_FEE
+"Dear applicant, you are shortlisted for Netflix Media Reviewer. Send your passport copy, bank routing number, and date of birth immediately on Telegram @netflix_hiring_manager.",1,SENSITIVE_DATA
+"Work from home data entry clerk needed. Earn $45/hour. No prior experience or degree required. Click here to confirm identity and pay background check charge.",1,ADVANCE_FEE
+"Congratulations on your selection at Meta! Kindly purchase the software development license key of $200 from our designated vendor portal to start training.",1,ADVANCE_FEE
+"SMS: Your parcel and job assignment are pending. Pay $2.50 customs dispatch fee at bit.ly/apple-dispatch to claim your company laptop.",1,ADVANCE_FEE
+"TCS Talent Team: Selected candidates must deposit Rs 3,000 for mandatory pre-placement medical examination voucher. Direct joining next week.",1,ADVANCE_FEE
+"Thank you for interviewing with Stripe. We are excited to extend an offer for the Software Engineer Intern role. The details of your compensation, equity, and healthcare benefits are in the portal.",0,LEGITIMATE
+"Dear Alex, following our panel interview yesterday, Microsoft would like to invite you to the final behavioral round with our Director of Engineering. No preparation fee is ever required.",0,LEGITIMATE
+"Hi Maya, thank you for your application to Goldman Sachs 2026 Summer Analyst program. Please complete the HackerRank coding challenge via the official portal within 5 days.",0,LEGITIMATE
+"Offer of Employment: We are pleased to offer you the position of Associate Product Manager at Atlassian. Please review the attached contract and sign via DocuSign.",0,LEGITIMATE
+"Your application for the Summer Research Fellowship at Stanford University has been received. Our admissions committee will review submissions and announce results in March.",0,LEGITIMATE
+"Dear Candidate, Thank you for applying for the Junior Frontend Engineer role at Spotify. Our engineering team reviewed your GitHub repositories and would love to schedule a 30-minute introductory call.",0,LEGITIMATE
+"Amazon University Recruiting: Invitation to Virtual Assessment for Software Development Engineer Intern (Summer 2026). Please access the test link using your amazon.jobs account.",0,LEGITIMATE
+"Deloitte Campus Hiring: We look forward to meeting you at the virtual campus presentation this Friday at 4 PM EST. The presentation link has been sent to your university email.",0,LEGITIMATE
+"Congratulations on completing your technical interviews at Uber. Our HR team is currently assembling your formal offer package which will be delivered through Workday.",0,LEGITIMATE
+"Google Student Careers: We have scheduled your 45-minute technical problem-solving interview on Google Meet with one of our staff engineers.",0,LEGITIMATE
+"Welcome to Adobe! Your onboarding starts on July 1st. Your company-issued laptop and peripherals will be shipped directly to your residential address at zero cost to you.",0,LEGITIMATE
+"Thank you for expressing interest in the Data Science Apprenticeship at IBM. Please review the job description on our official ibm.com/careers portal.",0,LEGITIMATE
+"Meta University Internship Program: Please find attached the schedule for your system design interview. Reach out to your assigned recruiter if you require any accommodations.",0,LEGITIMATE
+"We appreciate your time speaking with our team at Salesforce. While we were impressed with your background, we have chosen to move forward with other candidates for this specific role.",0,LEGITIMATE
+"Tesla Engineering: Your application for the Firmware Engineering Co-op has advanced to the phone screen stage. Please select an available slot on our scheduling calendar.",0,LEGITIMATE

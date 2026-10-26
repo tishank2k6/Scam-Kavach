@@ -1,0 +1,20 @@
+{
+  "model_type": "TF-IDF + Calibrated Logistic Regression (Sigmoid)",
+  "train_samples": 22,
+  "test_samples": 8,
+  "accuracy": 0.875,
+  "precision": 0.8,
+  "recall": 1.0,
+  "f1_score": 0.8889,
+  "confusion_matrix": {
+    "true_negatives": 3,
+    "false_positives": 1,
+    "false_negatives": 0,
+    "true_positives": 4
+  },
+  "limitations": [
+    "Trained on curated synthetic and reported student/job recruitment samples.",
+    "Model is an assistive screening tool, not definitive legal proof of fraud.",
+    "Heuristic rules complement the model to detect novel phrase variants."
+  ]
+}
